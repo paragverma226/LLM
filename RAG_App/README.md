@@ -132,6 +132,6 @@ This project is open-source under the [MIT License](LICENSE).
 
 ## 🙋‍♂️ Need Help?
 
-Open an issue or contact [your-email@example.com](mailto:your-email@example.com)
+Open an issue or contact [parag_verma226@yahoo.com](mailto:parag_verma226@yahoo.com)
 
 Happy building! 🚀
