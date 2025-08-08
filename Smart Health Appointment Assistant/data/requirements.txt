@@ -1,0 +1,23 @@
+# Core framework
+fastapi==0.111.0
+uvicorn[standard]==0.30.0
+
+# LangChain and model providers
+langchain==0.2.1
+langchain-core==0.2.1
+langchain-openai==0.1.8
+langchain-community==0.2.1
+langchain-groq==0.1.4
+
+# LLM client libraries
+openai==1.30.5
+groq==0.5.0
+
+# Config and environment
+python-dotenv==1.0.1
+
+# Data handling
+pandas==2.2.2
+
+# For type checking and static analysis
+typing-extensions>=4.7.1
